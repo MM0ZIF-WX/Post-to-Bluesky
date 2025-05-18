@@ -2,6 +2,8 @@
 
 A WordPress plugin that automatically posts weather updates from clientraw.txt to Bluesky social network.
 Written by Marcus Hazel-McGown - MM0ZIF owner of https://mm0zif.radio contact: marcus@havenswell.com
+Donate link: https://mm0zif.radio/current/fundraising-campaign/
+**
 ## Features
 
 - Automatic weather updates posted to Bluesky
