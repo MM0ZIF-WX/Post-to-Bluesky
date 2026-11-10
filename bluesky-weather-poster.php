@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bluesky Weather Poster
 Description: Posts weather updates from clientraw.txt to Bluesky with custom scheduling and interaction display
-Version: 1.8
+Version: 1.9
 Author: Marcus Hazel-McGown - MM0ZIF
 Homepage: https://mm0zif.radio - Contact: marcus@mm0zif.radio 
 */
